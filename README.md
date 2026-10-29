@@ -4,7 +4,7 @@ Automações com IA que construí em n8n para problemas reais de negócio. Cada 
 
 | Projeto | O que resolve | Status | Stack |
 |---|---|---|---|
-| [Reativa](reativa/) | Pós-venda, reativação e indicações de clientes de óticas pelo WhatsApp | Em produção (freelance para o OptiFlow, R$ 3.000) | n8n, OpenAI, Supabase pgvector, Redis |
+| [Reativa](reativa/) | Pós-venda, reativação e indicações de clientes de óticas pelo WhatsApp | Em produção (freelance para o OptiFlow) | n8n, OpenAI, Supabase pgvector, Redis |
 
 ## Padrões que aparecem nos meus fluxos
 
